@@ -97,7 +97,7 @@ python playground.py
 
 ### 4. Using the PHI Data Playground
 
-The PHI Data Playground is an interactive UI where you can test and visualize your agent applications. After running the project script (e.g., `playground.py`), note the port number displayed in the terminal (e.g., `127.0.0.1:8000`). Use this port number in the PHI Data Playground section to connect and interact with your application.
+The PHI Data Playground is an interactive UI where you can test and visualize your agent applications. After running the project script (e.g., `playground.py`), note the port number displayed in the terminal (e.g., `LOCALHOST:7777`). Use this port number in the PHI Data Playground section to connect and interact with your application.
 
 ---
 
