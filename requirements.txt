@@ -7,3 +7,10 @@ duckduckgo-search
 fastapi
 uvicorn
 groq
+openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+huggingface-hub
+sentence-transformers
