@@ -13,4 +13,5 @@ pgvector
 psycopg[binary]
 pypdf
 huggingface-hub
-sentence-transformers
+langchain-community
+pydantic
